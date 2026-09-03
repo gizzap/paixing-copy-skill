@@ -1,0 +1,4 @@
+interface:
+  display_name: "派星文案检查"
+  short_description: "检查并修改派星小红书文案中的词表、事实矛盾和表达问题"
+  default_prompt: "请用 $paixing-copy-review 检查并修改这篇派星文案，输出改稿、修改清单和待确认项。"
