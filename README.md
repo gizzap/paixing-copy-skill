@@ -6,7 +6,7 @@
 
 ## 安装前
 
-- 仓库目前为私有。请先让维护者把你的 GitHub 账号加入仓库协作者，并接受邀请。
+- 仓库公开，任何人都可以查看和安装，无需协作者邀请或登录 GitHub。
 - 本机需要能运行 Python 3；检查脚本只使用标准库，不需要安装 Python 依赖。
 - 完整改稿需要在 AI 工具中使用。单独运行 Python 脚本只会完成词表检查或改动范围验证。
 
@@ -19,7 +19,7 @@
 https://github.com/gizzap/paixing-copy-skill/tree/main/skills/paixing-copy-review
 ```
 
-安装时需要当前电脑具有该私有仓库的 Git 访问权限。如果使用 GitHub CLI，可先执行 `gh auth login` 和 `gh auth setup-git`。不要把令牌发进聊天。
+直接发送上面的安装链接即可，无需配置 GitHub 令牌。
 
 ## 用命令安装到 Codex 或 Claude Code
 
